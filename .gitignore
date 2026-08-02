@@ -1,0 +1,23 @@
+# Sonidos generados: se reconstruyen con generar_sonidos.py
+host/sonidos/
+*.wav
+
+# Registros de eventos (pueden contener datos del entorno del usuario)
+*.csv
+
+# Notas locales, fuera del repo
+NOTAS-PERSONALES.md
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# Arduino / arduino-cli
+build/
+*.hex
+*.elf
+
+# Sistema
+.DS_Store
