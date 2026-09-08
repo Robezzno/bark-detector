@@ -21,3 +21,14 @@ build/
 
 # Sistema
 .DS_Store
+node_modules/
+*.pyc
+.gradle/
+*.hprof
+*.apk
+*.aab
+*.tar.gz
+*.tgz
+*.zip
+*.7z
+*.class
